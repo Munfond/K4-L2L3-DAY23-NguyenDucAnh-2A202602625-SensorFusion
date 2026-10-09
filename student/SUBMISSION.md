@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Đức Anh
 - MSSV: 2A202602625
-- Email:
+- Email: nguyenanh10a2cvp@gmail.com
 - Link repo (fork): https://github.com/Munfond/K4-Track4-Day23-Sensor-Fusion-Student
 - Commit hash nộp (`git rev-parse HEAD`): Lấy hash 40 ký tự của commit CP6 chứa báo cáo này bằng `git rev-parse HEAD` khi nộp LMS. Không ghi hash của chính commit vào nội dung commit đó.
 
@@ -156,7 +156,7 @@ khả năng tổng quát của hệ thống perception độc lập với ground
 - [x] Giữ nguyên Part A–D và platform.
 - [x] Lần chạy chấm điểm: `--fusion compare --seed 0`, frame 0–198.
 - [x] Sáu file artifacts đã commit, không sửa tay.
-- [x] Đã điền họ tên, MSSV, kết quả, sáu câu giải thích và khai báo AI; email chưa cung cấp.
+- [x] Đã điền họ tên, MSSV, email, kết quả, sáu câu giải thích và khai báo AI.
 - [x] Không commit dữ liệu Waymo, weights, `.env`, `paths.yaml`, file nén hoặc API key.
 - [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`.
 - [ ] Đổi tên repo theo mẫu và cập nhật link nộp nếu đổi tên.
